@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrishtiTyagii
 - 👀 I’m interested in healthcare data analytics.
-- 🌱 I’m currently learning R, Python, SQL, and Tableau in my Master's in Health Informatics course
+- 🌱 I’m currently learning about Machine Learning.
 - 💞️ I’m looking to collaborate on projects that intersect healthcare and data analytics and research that pushes the boundaries of health informatics.
 - 📫 Reach me at www.linkedin.com/in/srishti-tyagii
 - 😄 Pronouns: she/her
